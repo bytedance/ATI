@@ -1,3 +1,34 @@
+
+<div align="right">
+  <details>
+    <summary >🌐 Language</summary>
+    <div>
+      <div align="center">
+        <a href="https://openaitx.github.io/view.html?user=bytedance&project=ATI&lang=en">English</a>
+        | <a href="https://openaitx.github.io/view.html?user=bytedance&project=ATI&lang=zh-CN">简体中文</a>
+        | <a href="https://openaitx.github.io/view.html?user=bytedance&project=ATI&lang=zh-TW">繁體中文</a>
+        | <a href="https://openaitx.github.io/view.html?user=bytedance&project=ATI&lang=ja">日本語</a>
+        | <a href="https://openaitx.github.io/view.html?user=bytedance&project=ATI&lang=ko">한국어</a>
+        | <a href="https://openaitx.github.io/view.html?user=bytedance&project=ATI&lang=hi">हिन्दी</a>
+        | <a href="https://openaitx.github.io/view.html?user=bytedance&project=ATI&lang=th">ไทย</a>
+        | <a href="https://openaitx.github.io/view.html?user=bytedance&project=ATI&lang=fr">Français</a>
+        | <a href="https://openaitx.github.io/view.html?user=bytedance&project=ATI&lang=de">Deutsch</a>
+        | <a href="https://openaitx.github.io/view.html?user=bytedance&project=ATI&lang=es">Español</a>
+        | <a href="https://openaitx.github.io/view.html?user=bytedance&project=ATI&lang=it">Italiano</a>
+        | <a href="https://openaitx.github.io/view.html?user=bytedance&project=ATI&lang=ru">Русский</a>
+        | <a href="https://openaitx.github.io/view.html?user=bytedance&project=ATI&lang=pt">Português</a>
+        | <a href="https://openaitx.github.io/view.html?user=bytedance&project=ATI&lang=nl">Nederlands</a>
+        | <a href="https://openaitx.github.io/view.html?user=bytedance&project=ATI&lang=pl">Polski</a>
+        | <a href="https://openaitx.github.io/view.html?user=bytedance&project=ATI&lang=ar">العربية</a>
+        | <a href="https://openaitx.github.io/view.html?user=bytedance&project=ATI&lang=fa">فارسی</a>
+        | <a href="https://openaitx.github.io/view.html?user=bytedance&project=ATI&lang=tr">Türkçe</a>
+        | <a href="https://openaitx.github.io/view.html?user=bytedance&project=ATI&lang=vi">Tiếng Việt</a>
+        | <a href="https://openaitx.github.io/view.html?user=bytedance&project=ATI&lang=id">Bahasa Indonesia</a>
+      </div>
+    </div>
+  </details>
+</div>
+
 # ATI: Any Trajectory Instruction for Controllable Video Generation
 
 <div align="center">
